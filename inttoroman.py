@@ -52,6 +52,7 @@ class Solution:
 
         total = 0
         prev_value = 0
+        var = 0
 
         for char in reversed(s):
             value = roman_map[char]
