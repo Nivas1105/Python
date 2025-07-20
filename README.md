@@ -12,7 +12,7 @@ This repository contains a diverse set of Python scripts, categorized by the ski
 
 ### 🧠 Data Structures & Algorithms (DSA)
 - Solutions to problems from platforms like **LeetCode** and **HackerRank**.
-- Covers topics such as arrays, linked lists, trees, graphs, sorting, and dynamic programming.
+- Covers topics such as arrays, linked lists, sorting, and dynamic programming.
 - **Goal:** To build a strong foundation in computational thinking and efficient coding.
 
 ### ⚙️ General Python & Scripting
